@@ -1,23 +1,15 @@
-# co12849998e861f04f6fc7bf7
-
-Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
-
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+# Vanlife Website
+### https://jl-daquipa-vanlife.netlify.app/
+<h3>Website Description</h3> 
+Vanlife is a website where explorers and adventurous people can rent out camper vans for their next road trip adventure.
+<br>
+<h3>Project Description</h3> 
+This is one of the projects we built in Scrimba’s Frontend Developer Career Path course where we are tasked to implement routing, user authentication, and an online database using Firebase in Reactjs.
+<br>
+<h3>Technologies and libraries used</h3> 
+<table>
+    <tr>
+        <td>Reactjs</td>
+        <td>Firebase</td>
+    </tr>
+</table>
